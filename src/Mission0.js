@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Mission0.css';
+import './styles.css';
 import puzzle from './images/puzzle.jpg';
 import phone from './images/phone.png';
 import strat from './images/strat.jpg';
